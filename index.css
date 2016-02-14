@@ -1,0 +1,39 @@
+#header {
+    height: 100px;
+    background: url("http://theartmad.com/wp-content/uploads/Grey-Wallpaper-9.png");
+    background-repeat: repeat-x;
+}
+
+#content {
+    width: 800px;
+    margin: 5px auto;
+    
+}
+
+.world {
+    color: skyblue;
+    font-size: 100;
+    
+}
+.press {
+    color: black;
+    font-size: 100;
+    
+}
+
+.image-logo {
+    height: 110px;
+    width: 140px;
+    margin: 0 auto;
+    align-content: center;
+}
+
+#img {
+     display: inline;
+}
+
+.image-logo-small {
+   
+    height: 20px;
+    width: 20px;
+}
